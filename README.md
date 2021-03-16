@@ -1,4 +1,4 @@
-![](https://ibb.co/gD7dhFH)
+![](https://github.com/ilyasushko/JS_Recharts_gradient_frame/blob/main/Title.png)
 
 
 ![](https://img.shields.io/badge/Готовность-100%25-green)
